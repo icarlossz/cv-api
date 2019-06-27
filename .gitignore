@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+**/node_modules/*
+**/.firebaserc
+.gitignore
+*/npm-debug.log
+lerna-debug.log
+*~
+firebase-config.json
+data.json

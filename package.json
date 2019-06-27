@@ -1,0 +1,20 @@
+{
+  "name": "cv-carlossz",
+  "version": "1.0.0",
+  "description": "This is an api with my relevant information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarlossz/cv-api.git"
+  },
+  "author": "carlossz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarlossz/cv-api/issues"
+  },
+  "homepage": "https://github.com/icarlossz/cv-api#readme",
+  "dependencies": {}
+}
